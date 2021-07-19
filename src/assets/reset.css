@@ -1,0 +1,27 @@
+ 
+  /* 去除浏览器默认的margin和padding, 自行删减一些不必要的标签 */
+ body,
+ p,
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ dl,
+ dd,
+ ul,
+ ol,
+ th,
+ td,
+ button,
+ figure,
+ input,
+ textarea,
+ form,
+ pre,
+ blockquote,
+ figure{
+ margin: 0;
+ padding: 0;
+ }
